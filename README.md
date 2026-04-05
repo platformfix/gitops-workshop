@@ -19,12 +19,12 @@ By the end of the day, this repo will contain a working GitOps setup you can for
 
 | Lab | What Gets Added | Directory |
 |-----|----------------|-----------|
-| **Lab 0** | Flux Operator bootstrap. Flux manages itself from this repo. | `clusters/` |
-| **Lab 1** | First application deployment via GitOps. Push to Git, watch it deploy. | `apps/` |
-| **Lab 2** | Multi-environment overlays. Dev, staging, production from one codebase. | `apps/` |
-| **Lab 3** | Helm integration. HelmRepository and HelmRelease managed by Flux. | `infrastructure/` + `apps/` |
-| **Lab 4** | Encrypted secrets with SOPS. Secrets in Git, safely. | `apps/` |
-| **Lab 5** | Monitoring, alerting, and troubleshooting patterns. | `clusters/` |
+| **0** | Flux Operator bootstrap. Flux manages itself from this repo. | `clusters/` |
+| **1** | First application deployment via GitOps. Push to Git, watch it deploy. | `apps/` |
+| **2** | Multi-environment overlays. Dev, staging, production from one codebase. | `apps/` |
+| **3** | Helm integration. HelmRepository and HelmRelease managed by Flux. | `infrastructure/` + `apps/` |
+| **4** | Encrypted secrets with SOPS. Secrets in Git, safely. | `apps/` |
+| **5** | Monitoring, alerting, and troubleshooting patterns. | `clusters/` |
 
 ## Repository Structure
 
