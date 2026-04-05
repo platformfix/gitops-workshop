@@ -49,10 +49,12 @@ By the end of the day, this repo will contain a working GitOps setup you can for
 
 ## After the Workshop
 
-- [The 10 Landmines Between Your GitOps Workshop and Production](https://guides.platformfix.com/gitops-10-landmines) - Free guide with a 25-question readiness audit
-- [Production-grade Kustomize template](https://github.com/swade1987/flux2-kustomize-template) - The template Steve uses with clients
-- [Production-grade SOPS template](https://github.com/swade1987/flux2-sops-template) - Encrypted secrets management for production
-- [Book a Platform Review](https://calendly.com/platformfixer/devops-pro) - 30 minutes. You describe your stack. I tell you what I'd delete first.
+| Resource | Description |
+|----------|-------------|
+| [The 10 GitOps Landmines](https://guides.platformfix.com/gitops-10-landmines) | Free guide with the 25-question readiness audit. Share it with your team. |
+| [Production Kustomize Template](https://github.com/swade1987/flux2-kustomize-template) | The template Steve uses with clients. CI, validation, multi-env. Fork it. |
+| [Production SOPS Template](https://github.com/swade1987/flux2-sops-template) | Encrypted secrets for production. Pre-commit hooks that prevent leaks. |
+| [Book a Platform Review](https://calendly.com/platformfixer/devops-pro) | 30 minutes. You describe your stack. I tell you what I'd delete first. |
 
 ---
 
@@ -60,6 +62,6 @@ By the end of the day, this repo will contain a working GitOps setup you can for
 
 **Platform Fix** - Delete before you add.
 
-[LinkedIn](https://www.linkedin.com/in/stevendavidwade/) · [Newsletter](https://newsletter.platformfix.com) · [platformfix.com](https://platformfix.com)
+[LinkedIn](https://www.linkedin.com/in/stevendavidwade/) · [Newsletter](https://newsletter.platformfix.com)
 
 </div>
