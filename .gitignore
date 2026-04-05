@@ -9,9 +9,10 @@ Thumbs.db
 .vscode/
 .idea/
 
-# SOPS age keys (never commit private keys)
+# SOPS age keys
+# NOTE: age-key.txt is committed intentionally for this workshop.
+# In production, NEVER commit private keys to Git.
 *.agekey
-age-key.txt
 
 # Terraform
 .terraform/
